@@ -1,4 +1,5 @@
  # Our Git Team
 
  ## Team member
- radaporn doopong
+ Radaporn Doopong
+ Sarisa Inthamat
